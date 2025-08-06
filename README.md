@@ -31,8 +31,6 @@ Using a popular captcha solving service it would cost 0.8$ per 1k tokens or 0.4$
 > Update: With the new numbers of 412 combinations being male and 415 being female the new numbers are `0.412 * 0.8 = 0.33$` and `0.412 * 0.4 = 0.16$` for males.
 
 # Summary
-Given you know the targets DOB 
-
 | Conditions | Possible Combinations | Price |
 | --------- | ----------- | ----------- |
 | Known: DOB | 827 | **0.827 * 0.8 = 0.66$** |
